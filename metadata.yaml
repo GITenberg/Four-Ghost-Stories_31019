@@ -1,0 +1,33 @@
+_repo: Four-Ghost-Stories_31019
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: Lady Farquhar's old lady -- Witnessed by two -- Unexplained -- The story
+  of the rippling train.
+gutenberg_issued: '2010-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ghost stories, English'
+tableOfContents: Lady Farquhar's old lady -- Witnessed by two -- Unexplained -- The
+  story of the rippling train.
+title: Four Ghost Stories
+url: http://www.gutenberg.org/ebooks/31019
